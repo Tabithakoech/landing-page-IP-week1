@@ -7,28 +7,37 @@ button{
     border-radius: 5px;
     padding: 7px;
     border-color:none;
+    
 }
 
 .top_links{
     display: inline-flex;
     padding-left: 0px;
+    color: gray;
 }
-.top_links li{
+.top_links a{
     list-style: none;
     display: inline-block;
     padding: 15px;
     color: gray;
+    text-decoration: none;
+    
 
 }
-.top_links ul{
-    padding-left: 25px;
-    padding-right: 0px;
-    margin-right: 0px;
-    float: left;
+.top_links button{
+    background-color: #EC4067;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    border-color:none;
+    border-top: 0px;
+
 }
+
+
 .top_links  h2 {
     padding-left: 20px;
-    padding-right: 20px;
+    padding-right: 700px;
     padding-bottom: 20px;
     padding-top:20px;
 }
@@ -69,6 +78,10 @@ button{
     padding-top: 100px;
     padding-bottom: 100px;
 
+
+}
+.stories h6{
+    display: inline;
 }
 .stories img{
     float: left;
