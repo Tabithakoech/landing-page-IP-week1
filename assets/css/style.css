@@ -79,13 +79,14 @@ button{
 }
 .board_meeting{
     padding-left: 40px;
-    padding-bottom: 100px;
+    padding-bottom: 200px;
 }
 .board_meeting img{
     display: inline;
-    padding-right: 600px;
+    padding-right: 550px;
     padding-top: 0px;
     height: 250px;
+    padding-left: 20px;
     margin-top: 0px;
     width: 350px;
     float: right;
@@ -96,19 +97,89 @@ button{
 .Graduation{
     padding-bottom: 30px;
     padding-left: 40px;
+    padding-bottom: 200px;
+}
+.Graduation img{
+    float: left;
+    width: 350px;
+    height: 250px;
+    padding-left: 0px;
+    padding-right: 100px;
 }
 .tms{
     padding-left: 40px;
 }
-.tms img{
-    display: inline-flex;
+.tms h6{
+    display: inline;
+
+    
+}
+
+
+.Rose{
+    display: inline;
+    float: left;
+
+
+}
+.Rose img{
+    height: 200px;
+    width: 200px;
+    padding-left: 40px;
+}
+.byron{
+    display: inline;
+    float: left;
+    padding-left: 0px;
+    
+}
+.byron img{
+    height: 200px;
+    width: 200px;
+}
+.Raph{
+    display: inline;
+    float: left;
+    padding-left: 0px;
+
+}
+.Raph img{
+    height: 200px;
+    width: 200px;
+    
+}
+.Christine{
+    display: block;
+    float: left;
+    padding-left: 0px;
+
+
+}
+.Christine img{
+    height: 200px;
+    width: 200px;
+
 }
 .project{
     padding-left: 40px;
+    padding-bottom: 100px;
+    display: block;
+    padding-top: 500px;
+}
+.project img{
+    height: 200px;
+    width: 500px;
+    float: right;
+    
+    padding-left: 0px;
+    padding-right: 500px;
 }
 .still{
     padding-left: 40px;
 }
 .footer{
-    padding-left: 200px;
+    padding-left: 500px;
+    background-color: #F3E9DD;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
