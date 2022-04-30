@@ -132,13 +132,15 @@ button{
 .Rose{
     display: inline;
     float: left;
+    padding-left: 40px;
 
 
 }
 .Rose img{
     height: 200px;
     width: 200px;
-    padding-left: 40px;
+    
+    padding-right: 100px;
 }
 .byron{
     display: inline;
@@ -149,6 +151,7 @@ button{
 .byron img{
     height: 200px;
     width: 200px;
+    padding-right: 100px;
 }
 .Raph{
     display: inline;
@@ -159,6 +162,7 @@ button{
 .Raph img{
     height: 200px;
     width: 200px;
+    padding-right: 100px;
     
 }
 .Christine{
