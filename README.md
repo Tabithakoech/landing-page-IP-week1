@@ -12,4 +12,9 @@
 ---
 
 ### Tabitha Chepngetich
+&nbsp;
+## License
+---
+
+[MIT](https://opensource.org/licenses/MIT)
 
