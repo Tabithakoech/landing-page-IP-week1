@@ -11,4 +11,9 @@
 ## Author
 ---
 
+<<<<<<< HEAD
 ### Tabitha Chepngetich
+=======
+### Tabitha Chepngetich
+
+>>>>>>> 19c35f3bf5552d31f3aeec480c40afdd514b95a4
