@@ -1,0 +1,83 @@
+body{
+    font-family: Nunito;
+}
+button{
+    background-color: #EC4067;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    border-color:none;
+}
+
+.top_links{
+    display: inline-flex;
+    padding-left: 0px;
+}
+.top_links li{
+    list-style: none;
+    display: inline-block;
+    padding: 15px;
+    color: gray;
+
+}
+.top_links ul{
+    padding-left: 25px;
+    padding-right: 0px;
+    margin-right: 0px;
+    float: left;
+}
+.top_links  h2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top:20px;
+}
+.nurture li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    text-align: right;
+}
+
+.nurture{
+    padding-bottom: 20px;
+    padding-left: 40px;
+   
+
+}
+.nurture img{
+    display: flex;
+}
+    
+    
+
+.stories{
+    padding-left: 40px;
+}
+.board_meeting{
+    padding-left: 40px;
+}
+.Graduation{
+    padding-bottom: 30px;
+    padding-left: 40px;
+}
+.tms{
+    padding-left: 40px;
+}
+.tms img{
+    display: inline-flex;
+}
+.project{
+    padding-left: 40px;
+}
+.still{
+    padding-left: 40px;
+}
+.footer{
+    padding-left: 200px;
+}
