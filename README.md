@@ -2,13 +2,14 @@
 &nbsp;
 ##  Moringa School Landing Page
 ---
-
+### This a school website developed as a submission for Moringa School weekly Independent project.
 ### Employing the HTML and CSS design concepts in reproducing the landing page of a school website illustrated below.
-&nbsp;
-&nbsp;
- ![image](./assets/images/School%20Landing%20Page.png)
 
----
+&nbsp;
+&nbsp;
+
+
+
 
 ## Author
 ---
@@ -19,6 +20,11 @@
 ---
 * HTML - which was used to develop the structure of the page.
 * CSS - which was used to style the User Interface.
+&nbsp;
+## Demo
+---
+### To check out the website live at:
+&nbsp;
 ## License
 ---
 
