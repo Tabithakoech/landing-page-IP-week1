@@ -22,7 +22,7 @@
 &nbsp;
 ## Demo
 ---
-### To check out the website live at:
+### To check out the website live at: https://tabithakoech.github.io/landing-page-IP-week1/
 &nbsp;
 ## License
 ---
