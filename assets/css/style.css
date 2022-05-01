@@ -9,6 +9,11 @@ button{
     border-color:none;
     
 }
+button:hover{
+    background-color: white;
+    color: #EC4067;
+    border: 1px solid #EC4067;
+}
 
 .top_links{
     display: inline-flex;
